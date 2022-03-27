@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Loong. 
-🤔Due to the job requirements, I became a full stack engineer. I use Golang and PHP as the primary back-end languages in my work. I used HTML, SCSS, Javascript to build the front end interface. The docker-compose deployment application is currently used.
-I participated in the Google Summer of Code 2019 as a student developer. I am a volunteer and mentor of Google-Code-in. I am a contributor to the Druapl community.
+Hi, my name is Loong.   
+🤔Due to the job requirements, I became a full stack engineer. I use Golang and PHP as the primary back-end languages in my work. I used HTML, SCSS, Javascript to build the front end interface. The docker-compose deployment application is currently used.  
+I participated in the Google Summer of Code 2019 as a student developer. I am a volunteer and mentor of Google-Code-in. I am a contributor to the Druapl community.  
 I was a development project leader for a small team of five people. I try to do better.
