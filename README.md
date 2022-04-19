@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Loong.   
+Hi, my name is Long Xianwen(Loong).   
 I'm a software engineer.
 
 [![My Skills](https://skillicons.dev/icons?i=go,php,nodejs)](http://longxianwen.net)  
