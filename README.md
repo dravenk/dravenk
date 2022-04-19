@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hi, my name is Loong.   
-🤔Due to the job requirements, I became a full stack engineer. I use Golang and PHP as the primary back-end languages in my work. I used HTML, SCSS, Javascript to build the front end interface. The docker-compose deployment application is currently used.  
-I participated in the Google Summer of Code 2019 as a student developer. I am a volunteer and mentor of Google-Code-in. Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.  
-I was a development project leader for a small team of five people. I try to do better.
+🤔 I'm full stack engineer.  
+I participated in the Google Summer of Code 2019 as a student developer. I'm a volunteer and mentor of Google-Code-in. Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
