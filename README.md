@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 Hi, my name is Loong.   
 I'm a software engineer.
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,nodejs)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nginx)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,gitlab)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=go,php,nodejs)](http://longxianwen.net)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react)](http://longxianwen.net)  
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,mysql,postgres,nginx,gitlab)](http://longxianwen.net)  
 
 I participated in the Google Summer of Code 2019 as a student developer.  
 I'm a volunteer and mentor of Google-Code-in.   
