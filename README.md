@@ -16,5 +16,14 @@ Here are some ideas to get you started:
 -->
 
 Hi, my name is Loong.   
-🤔 I'm full stack engineer.  
-I participated in the Google Summer of Code 2019 as a student developer. I'm a volunteer and mentor of Google-Code-in. Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
+I'm a software engineer.
+
+[![My Skills](https://skillicons.dev/icons?i=go,php,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nginx)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,gitlab)](https://skillicons.dev)  
+
+I participated in the Google Summer of Code 2019 as a student developer.  
+I'm a volunteer and mentor of Google-Code-in.   
+Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
