@@ -31,6 +31,6 @@ I participated in the Google Summer of Code 2019 as a student developer.
 I'm a volunteer and mentor of Google-Code-in.   
 Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,nodejs)](http://longxianwen.net)  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react)](http://longxianwen.net)  
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,mysql,postgres,nginx,gitlab)](http://longxianwen.net)  
+[![My Skills](https://skillicons.dev/icons?i=go,php,nodejs&theme=light)](http://longxianwen.net)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react&theme=light)](http://longxianwen.net)  
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,mysql,postgres,nginx,gitlab&theme=light)](http://longxianwen.net)  
