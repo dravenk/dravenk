@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Long Xianwen(Loong). 
-
-I'm a software engineer.  
-I participated in the Google Summer of Code 2019 as a student developer.  
-I'm a volunteer and mentor of Google-Code-in.   
-Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
-
 
 <a href="https://github.com/dravenk#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dravenk&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
@@ -31,9 +24,13 @@ Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dravenk&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
 </a>
 
+Hi, my name is Long Xianwen(Loong). 
 
+I'm a software engineer.  
+I participated in the Google Summer of Code 2019 as a student developer.  
+I'm a volunteer and mentor of Google-Code-in.   
+Check [my profile](https://www.drupal.org/user/3452417) on Druapl community.
 
 [![My Skills](https://skillicons.dev/icons?i=go,php,nodejs)](http://longxianwen.net)  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react)](http://longxianwen.net)  
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,mysql,postgres,nginx,gitlab)](http://longxianwen.net)  
-
