@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 Hi, my name is Long Xianwen(Loong). 
 
 I'm a software engineer.  
-I participated in the Google Summer of Code 2019 as a student developer.  
-I'm a volunteer and mentor of Google-Code-in.   
+I participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019 as a student developer.  I'm a volunteer and mentor of [Google-Code-in](https://codein.withgoogle.com/).   
 You can catch me on [MyBlog](http://longxianwen.net) and [YouTube](https://www.youtube.com/channel/UC6oXSSEMgKTFBuLooYbqQ1w), or [My Profile](https://www.drupal.org/user/3452417) on Druapl community.
 
 [![My Skills](https://skillicons.dev/icons?i=go,php,nodejs&theme=light)](http://longxianwen.net)  
